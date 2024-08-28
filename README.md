@@ -1,3 +1,3 @@
 # Telegram-Pipeline
 
-![Arquitetura](images/Arquitetura.png)
+![Arquitetura](Arquitetura.png)
