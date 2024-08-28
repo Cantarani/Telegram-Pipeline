@@ -3,5 +3,5 @@
 ![Arquitetura](Arquitetura.png)
 
 <p align="center">
-  ![Diagrama da Arquitetura](images/Arquitetura.png)
+  ![Diagrama da Arquitetura](Arquitetura.png)
 </p>
